@@ -22,3 +22,11 @@ section {
 html {
   scroll-behavior: smooth;
 }
+
+.container .projects {
+  margin-top: -150px;
+}
+
+.art {
+    margin-bottom: 100px;
+}
